@@ -1,4 +1,3 @@
-
 Training ai by Teachable Machine and Google Colab for Human vs. Robot Image Recognition
 
 Overview
